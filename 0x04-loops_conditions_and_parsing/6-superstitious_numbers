@@ -11,8 +11,8 @@ do
 	(( count++ ))
 
 	case $count in
-		"5") echo "bad luck from China";;
-		"10") echo "bad luck from Japan";;
-		"18") echo "bad luck from italy";;
+		"4") echo "bad luck from China";;
+		"9") echo "bad luck from Japan";;
+		"17") echo "bad luck from italy";;
 	esac
 done
