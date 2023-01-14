@@ -1,1 +1,1 @@
-My readme file for the Shell Redirections task
+This project covers basic concepts in Shell, I/O Redirections and filters

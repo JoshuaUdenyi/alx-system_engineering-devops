@@ -1,1 +1,1 @@
-My last task on shell 
+This project covers concepts in Shell, init files, variables and expansions
